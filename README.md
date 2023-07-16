@@ -1,3 +1,22 @@
+# Initialising the project
+Please run this project in a Linux environment.
+In bash, run:   
+```
+dfx start
+```
+then, 
+```
+npm install --force
+```
+then, 
+```
+dfx deploy
+```
+finally,
+```
+npm start
+```
+
 # Check your Balance
 
 1. Find out your principal id:
